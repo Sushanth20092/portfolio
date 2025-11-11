@@ -7,6 +7,16 @@ import { Award } from "lucide-react"
 
 const certifications = [
   {
+    title: " AWS Cloud Practitioner Essentials",
+    issuer: "AWS Training & Certification",
+    icon: Award,
+   },
+   {
+    title: "Prompt Engineering",
+    issuer: "Infosys Springboard",
+    icon: Award,
+  },
+  {
     title: "UI & UX Assessment",
     issuer: "Career Ninja",
     icon: Award,
@@ -16,6 +26,7 @@ const certifications = [
     issuer: "Infosys Springboard",
     icon: Award,
   },
+   
 ]
 
 export default function Certifications() {

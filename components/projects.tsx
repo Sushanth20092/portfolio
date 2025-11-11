@@ -26,6 +26,16 @@ const projects = [
     demo: "#",
   },
   {
+  title: "Recipedia",
+  description:
+    "A modern recipe-sharing web app built with React, Node.js, and Supabase. Features JWT authentication, recipe uploads, likes, comments, and search functionality with a clean, responsive UI.",
+  tech: ["React", "Node.js", "Express", "Supabase", "JWT", "Tailwind CSS"],
+  image: "/food1.png",
+  github: "https://github.com/Sushanth20092/Recipedia",
+  demo: "#", 
+},
+
+  {
     title: "Netflix Show Analysis",
     description:
       "Data visualization project analyzing show trends, ratings, and viewing patterns using Python libraries.",
