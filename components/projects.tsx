@@ -41,7 +41,7 @@ const projects = [
       "Data visualization project analyzing show trends, ratings, and viewing patterns using Python libraries.",
     tech: ["Python", "Pandas", "Matplotlib", "Seaborn"],
     image: "/data-dashboard-charts.png",
-    github: "#",
+    github: "https://github.com/Sushanth20092/netflix-analysis",
     demo: "#",
   },
 ]
