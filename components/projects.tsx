@@ -17,14 +17,7 @@ const projects = [
     github: "https://github.com/Sushanth20092/smartsplit",
     demo: "#",
   },
-  {
-    title: "Bike Rental Website",
-    description: "User-friendly rental system with admin panel for managing bikes, bookings, and customer information.",
-    tech: ["HTML", "CSS", "PHP", "MySQL"],
-    image: "/motorbike.jpg",
-    github: "#",
-    demo: "#",
-  },
+
   {
   title: "Recipedia",
   description:
@@ -34,7 +27,23 @@ const projects = [
   github: "https://github.com/Sushanth20092/Recipedia",
   demo: "#", 
 },
-
+{
+  title: "Shivagiri Caterers – Static Website",
+  description:
+    "A modern, responsive static website built for a catering service using Next.js and Tailwind CSS. Features a clean UI, menu sections, pricing packages, and smooth animations to enhance user experience. Deployed on Vercel with mobile-first design.",
+  tech: ["Next.js", "React", "Tailwind CSS", "Vercel"],
+  image: "/cat.png",
+  github: "https://github.com/Sushanth20092/Caterers-service", 
+  demo: "https://shivagiricaterers.vercel.app/",
+},
+  {
+    title: "Bike Rental Website",
+    description: "User-friendly rental system with admin panel for managing bikes, bookings, and customer information.",
+    tech: ["HTML", "CSS", "PHP", "MySQL"],
+    image: "/motorbike.jpg",
+    github: "#",
+    demo: "#",
+  },
   {
     title: "Netflix Show Analysis",
     description:
@@ -43,7 +52,10 @@ const projects = [
     image: "/data-dashboard-charts.png",
     github: "https://github.com/Sushanth20092/netflix-analysis",
     demo: "#",
-  },
+  }
+
+
+
 ]
 
 export default function Projects() {
