@@ -17,7 +17,18 @@ const projects = [
     github: "https://github.com/Sushanth20092/smartsplit",
     demo: "#",
   },
-
+  {
+    title: "Revanths Gallery",
+    description:
+      "A modern art gallery platform with an admin-managed painting collection, featured artwork controls, and Supabase-backed authentication. Designed with a minimalist UI, smooth animations, and WhatsApp-based customer inquiries.",
+    tech: [ "Next.js 15",
+      "TypeScript",
+      "Tailwind CSS",
+      "Supabase"],
+    image: "/rev.png",
+    github: "https://github.com/Sushanth20092/Revanths_Gallery",
+    demo: "https://revanths-gallery.vercel.app/",
+  },
   {
   title: "Recipedia",
   description:
