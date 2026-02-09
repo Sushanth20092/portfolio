@@ -64,9 +64,6 @@ const projects = [
     github: "https://github.com/Sushanth20092/netflix-analysis",
     demo: "#",
   }
-
-
-
 ]
 
 export default function Projects() {
