@@ -9,7 +9,7 @@ const experiences = [
   {
     title: "Full Stack & Mobile App Development Intern",
     company: "TheInnLabs",
-    period: "Jun 2025 – Sep 2025",
+    period: "Jun 2025 – Dec 2025",
     description: [
       "Contributed to full-stack website & mobile application development",
       "Implemented AI-enhanced features for improved UX",

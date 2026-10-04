@@ -158,7 +158,7 @@ export default function Navbar({ theme, toggleTheme }: NavbarProps) {
               size="sm"
               className="glow-blue bg-accent hover:bg-accent/90 text-accent-foreground font-semibold mt-4 w-full"
             >
-              <a href="/resume_sushanth.pdf" download onClick={() => setIsMenuOpen(false)}>
+              <a href="/sushanth_resume.pdf" download onClick={() => setIsMenuOpen(false)}>
                 <Download className="mr-2 h-4 w-4" />
                 Download Resume
               </a>

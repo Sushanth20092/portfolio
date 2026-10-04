@@ -83,7 +83,7 @@ export default function Contact() {
               <div>
                 <h3 className="font-semibold mb-1">LinkedIn</h3>
                 <a
-                  href="https://www.linkedin.com/in/sushanthacharya062790343"
+                  href="https://www.linkedin.com/in/sushanth-acharya-062790343/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-muted-foreground hover:text-primary transition-colors"

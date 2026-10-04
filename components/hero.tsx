@@ -82,7 +82,7 @@ export default function Hero() {
               size="lg"
               className="glow-blue bg-accent hover:bg-accent/90 text-accent-foreground font-semibold"
             >
-              <a href="/resume_sushanth.pdf" download>
+              <a href="/sushanth_resume.pdf" download>
                 <Download className="mr-2 h-5 w-5" />
                 Download Resume
               </a>
@@ -114,7 +114,7 @@ export default function Hero() {
               <Github className="h-6 w-6" />
             </motion.a>
             <motion.a
-              href="https://www.linkedin.com/in/sushanthacharya062790343"
+              href="https://www.linkedin.com/in/sushanth-acharya-062790343/"
               target="_blank"
               rel="noopener noreferrer"
               whileHover={{ scale: 1.2, rotate: 5 }}
